@@ -1,0 +1,14 @@
+name: mobile_carrier_detection
+description: This library detects the mobile carrier of a given South African phone number based on specific number patterns.
+version: 1.0.0
+repository: https://github.com/theookoye/mobile-carrier-detection-dart.git
+license: MIT
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.24.0
